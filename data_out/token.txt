@@ -1,0 +1,13 @@
+This this DET DT nsubj
+is be AUX VBZ ROOT
+a a DET DT det
+$ $ SYM $ nmod
+2 2 NUM CD nummod
+test test NOUN NN compound
+sentence sentence NOUN NN attr
+to to PART TO aux
+test test VERB VB relcl
+a a DET DT det
+U.K. U.K. PROPN NNP compound
+spaCy spacy X ADD compound
+pipline pipline NOUN NN dobj
